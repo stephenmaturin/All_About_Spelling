@@ -19,7 +19,7 @@
                 "mult": 0.0
             },
             "maxTaken": 60,
-            "name": "Manual",
+            "name": "Spelling",
             "new": {
                 "LBEIMinAfter": 4,
                 "LBEIMinBefore": 4,
@@ -37,7 +37,7 @@
                     7
                 ],
                 "order": 1,
-                "perDay": 0,
+                "perDay": 10,
                 "separate": true
             },
             "replayq": true,
@@ -49,7 +49,7 @@
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 200
+                "perDay": 30
             },
             "timer": 0
         }
@@ -129,7 +129,7 @@
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
                 "L3",
-                "L3S1",
+                "L3S01",
                 "Phonograms"
             ]
         },
@@ -144,9 +144,9 @@
             "guid": "NcL@6KrD&-",
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
-                "Phonograms",
                 "L3",
-                "L3S1"
+                "L3S01",
+                "Phonograms"
             ]
         },
         {
@@ -160,9 +160,9 @@
             "guid": "ba/drVLWdv",
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
-                "Phonograms",
                 "L3",
-                "L3S1"
+                "L3S01",
+                "Phonograms"
             ]
         },
         {
@@ -176,9 +176,9 @@
             "guid": "JUDqv#spm8",
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
-                "Phonograms",
                 "L3",
-                "L3S6"
+                "L3S6",
+                "Phonograms"
             ]
         },
         {
@@ -192,9 +192,9 @@
             "guid": "zpOV:H(cOJ",
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
-                "Phonograms",
                 "L3",
-                "L3S11"
+                "L3S11",
+                "Phonograms"
             ]
         },
         {
@@ -240,9 +240,9 @@
             "guid": "N!UsNiU+IW",
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
-                "Phonograms",
                 "L3",
-                "L3S18"
+                "L3S18",
+                "Phonograms"
             ]
         },
         {
@@ -256,9 +256,9 @@
             "guid": "wKiKl*z]pn",
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
-                "Phonograms",
                 "L3",
-                "L3S18"
+                "L3S18",
+                "Phonograms"
             ]
         },
         {
@@ -272,9 +272,9 @@
             "guid": "lzxAo#;7o{",
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
-                "Phonograms",
                 "L3",
-                "L3S18"
+                "L3S18",
+                "Phonograms"
             ]
         },
         {
@@ -434,7 +434,7 @@
             "tags": [
                 "Key_Cards",
                 "L3",
-                "L3S1"
+                "L3S01"
             ]
         },
         {
@@ -473,7 +473,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What are the five ways to spell the sound of /ƒì/?",
+                "What are the five ways to spell the sound of /ē/?",
                 "e, e-e, ee, ea, y"
             ],
             "flags": 0,
@@ -529,7 +529,7 @@
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
                 "L3",
-                "L3S1"
+                "L3S01"
             ]
         },
         {
@@ -544,7 +544,7 @@
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
                 "L3",
-                "L3S1"
+                "L3S01"
             ]
         },
         {
@@ -559,7 +559,7 @@
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
                 "L3",
-                "L3S1"
+                "L3S01"
             ]
         },
         {
@@ -574,7 +574,7 @@
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
                 "L3",
-                "L3S1"
+                "L3S01"
             ]
         },
         {
@@ -589,7 +589,7 @@
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
                 "L3",
-                "L3S1"
+                "L3S01"
             ]
         },
         {
@@ -604,7 +604,7 @@
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
                 "L3",
-                "L3S1"
+                "L3S01"
             ]
         },
         {
@@ -619,7 +619,7 @@
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
                 "L3",
-                "L3S1"
+                "L3S01"
             ]
         },
         {
@@ -634,7 +634,7 @@
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
                 "L3",
-                "L3S1"
+                "L3S01"
             ]
         },
         {
@@ -649,7 +649,7 @@
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
                 "L3",
-                "L3S1"
+                "L3S01"
             ]
         },
         {
@@ -664,7 +664,7 @@
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
                 "L3",
-                "L3S1"
+                "L3S01"
             ]
         },
         {
@@ -679,7 +679,7 @@
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
                 "L3",
-                "L3S5"
+                "L3S05"
             ]
         },
         {
@@ -694,7 +694,7 @@
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
                 "L3",
-                "L3S5"
+                "L3S05"
             ]
         },
         {
@@ -709,7 +709,7 @@
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
                 "L3",
-                "L3S5"
+                "L3S05"
             ]
         },
         {
@@ -724,7 +724,7 @@
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
                 "L3",
-                "L3S5"
+                "L3S05"
             ]
         },
         {
@@ -739,7 +739,7 @@
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
                 "L3",
-                "L3S5"
+                "L3S05"
             ]
         },
         {
@@ -754,7 +754,7 @@
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
                 "L3",
-                "L3S5"
+                "L3S05"
             ]
         },
         {
@@ -769,7 +769,7 @@
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
                 "L3",
-                "L3S5"
+                "L3S05"
             ]
         },
         {
@@ -784,7 +784,7 @@
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
                 "L3",
-                "L3S5"
+                "L3S05"
             ]
         },
         {
@@ -799,7 +799,7 @@
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
                 "L3",
-                "L3S5"
+                "L3S05"
             ]
         },
         {
@@ -814,7 +814,7 @@
             "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
             "tags": [
                 "L3",
-                "L3S5"
+                "L3S05"
             ]
         },
         {
