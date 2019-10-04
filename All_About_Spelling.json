@@ -3700,6 +3700,3293 @@
                 "L3S28",
                 "Words"
             ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a",
+                "a (apple)a (acorn)ah (water)"
+            ],
+            "flags": 0,
+            "guid": "yXvSGkZlo%",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "L1",
+                "L1S1",
+                "Phonograms"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b",
+                "b (bat)"
+            ],
+            "flags": 0,
+            "guid": "xn?wfj*TC|",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c",
+                "k (cat)s (city)"
+            ],
+            "flags": 0,
+            "guid": "r#MF+im0en",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "d",
+                "d (dog)"
+            ],
+            "flags": 0,
+            "guid": "H,fh)}E`6;",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "e",
+                "e (end)e (even)"
+            ],
+            "flags": 0,
+            "guid": "k!E.[D`HJ9",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "f",
+                "f (fan)"
+            ],
+            "flags": 0,
+            "guid": "E]d-,A0svf",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "g",
+                "g (goat)j (gem)"
+            ],
+            "flags": 0,
+            "guid": "s@xRrB.6xF",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "h",
+                "h (hat)"
+            ],
+            "flags": 0,
+            "guid": "v(C~%MqA=i",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "i",
+                "i (igloo)i (ivy)e (radio)"
+            ],
+            "flags": 0,
+            "guid": "wm>Ux3|p5^",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "j",
+                "j (jam)"
+            ],
+            "flags": 0,
+            "guid": "MN{J(?v`2[",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "k",
+                "k (king)"
+            ],
+            "flags": 0,
+            "guid": "K1sfWi**`x",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "l",
+                "l (look)"
+            ],
+            "flags": 0,
+            "guid": "z7<JtpP_Ui",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "m",
+                "m (map)"
+            ],
+            "flags": 0,
+            "guid": "GnJJ5X/1Nh",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "n",
+                "n (nest)"
+            ],
+            "flags": 0,
+            "guid": "PB~Y5KNi!*",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "o",
+                "o (odd)o (open) oo (to)u (oven)"
+            ],
+            "flags": 0,
+            "guid": "yrcbfzE[(.",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "p",
+                "p (pig)"
+            ],
+            "flags": 0,
+            "guid": "(O[m~?g{C",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "qu",
+                "kw (queen)"
+            ],
+            "flags": 0,
+            "guid": "lUYD_>TkCC",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "r",
+                "r (ran)"
+            ],
+            "flags": 0,
+            "guid": "ohwLW`#+n2",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "s",
+                "s (sun)z (has)"
+            ],
+            "flags": 0,
+            "guid": "Cu-t`BSWQz",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "t",
+                "t (tap)"
+            ],
+            "flags": 0,
+            "guid": "ivN,*~:H[M",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "u",
+                "u (up)u (unit)oo (put)"
+            ],
+            "flags": 0,
+            "guid": "M+V{,6%4Zq",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "v",
+                "v (vine)"
+            ],
+            "flags": 0,
+            "guid": "KJ[$b2V:{(",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "w",
+                "w (we)"
+            ],
+            "flags": 0,
+            "guid": "g42:56.~9g",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "x",
+                "ks (box)"
+            ],
+            "flags": 0,
+            "guid": "u>o<dC1}X4",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "y",
+                "y (yarn)i (gym)i (my)e (happy)"
+            ],
+            "flags": 0,
+            "guid": "g&A%u`&]|k",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "z",
+                "z (zoo)"
+            ],
+            "flags": 0,
+            "guid": "I{y[Gsh31~",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "th",
+                "th (three)th (then)"
+            ],
+            "flags": 0,
+            "guid": "u<sqhsv/#2",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "L1",
+                "L1S9",
+                "Phonograms"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "sh",
+                "sh (ship)"
+            ],
+            "flags": 0,
+            "guid": "w-m|jhz{Kp",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ch",
+                "ch (child)k (school)sh (chef)"
+            ],
+            "flags": 0,
+            "guid": "ef]b:!yMq>",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ck",
+                "k (duck)"
+            ],
+            "flags": 0,
+            "guid": "gGsla~JZyE",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S18"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ng",
+                "ng (king)"
+            ],
+            "flags": 0,
+            "guid": "Ek[dnlry?-",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S18"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "nk",
+                "ngk (thank)"
+            ],
+            "flags": 0,
+            "guid": "E%Xpmdf~t8",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Phonograms",
+                "L1",
+                "L1S18"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The vowels are",
+                "a, e, i,o,u and sometimes y"
+            ],
+            "flags": 0,
+            "guid": "L=:msXSqdA",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "L1",
+                "L1S3",
+                "Spelling_Rules"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A consonant is",
+                "any letter that isn't a vowel"
+            ],
+            "flags": 0,
+            "guid": "Bokd7WtffO",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Spelling_Rules",
+                "L1",
+                "L1S3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Every word has at least one __________",
+                "vowel"
+            ],
+            "flags": 0,
+            "guid": "D${)/iesAK",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "L1",
+                "L1S5",
+                "Spelling_Rules"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Names start with a ___________",
+                "capital letter"
+            ],
+            "flags": 0,
+            "guid": "eRDgA&hn$/",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "L1",
+                "L1S8",
+                "Spelling_Rules"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Count syllables",
+                "leaf (1)    coat (1)   sister (2)   poster (2)    car (1)    friendship (2)  shirt (1)   shovel (2)  road (1)   broom (1)table (2)  playground (2)   computer (3)  blanket (2)dinosaur (3)  mailbox (2)  puppy (2)  rubber (2)(Look around you for more ideas.)"
+            ],
+            "flags": 0,
+            "guid": "t*CYG|s-kY",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "L1",
+                "L1S10",
+                "Spelling_Rules"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "C says /s/ before what three letters?",
+                "e, i or y"
+            ],
+            "flags": 0,
+            "guid": "x%E[obGi0A",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Spelling_Rules",
+                "L1",
+                "L1S16"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are two ways to spell the sound of /k/ at the beginning of a word?________________Which letter do we try first? ___________",
+                "1. c and k (the sound of /k/ may also be spelled ch)2. c"
+            ],
+            "flags": 0,
+            "guid": "I!&9/(npHm",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Spelling_Rules",
+                "L1",
+                "L1S16"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which letters are often doubled after a single vowel at the end of a one-syllable word? _________",
+                "f, l, and s"
+            ],
+            "flags": 0,
+            "guid": "G7tMYN)G{x",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Spelling_Rules",
+                "L1",
+                "L1S18"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ck is used only after _________",
+                "a short vowel"
+            ],
+            "flags": 0,
+            "guid": "x(fq?`sSPH",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Spelling_Rules",
+                "L1",
+                "L1S19"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "\"Plural\" means ________",
+                "more than one"
+            ],
+            "flags": 0,
+            "guid": "wDEE~S<W}f",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Spelling_Rules",
+                "L1",
+                "L1S23"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Two common ways to make a word plural are by adding ___________",
+                "s or es"
+            ],
+            "flags": 0,
+            "guid": "K(}}$-el3;",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Spelling_Rules",
+                "L1",
+                "L1S23"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tell me the base word of __________",
+                "dishes  shells  letters  flowers  hands  mats  pencils  cars  dogs  lips  boats  lights  pumpkins  hills  paints  brushes  ponds  songs  toys  plants  hugs  ducks  books  hotels  wings  glasses  tables  motors  mops  clams  lunches  tests  rocks  bears  trees  squirrels  logs  boxes  boys  beaches"
+            ],
+            "flags": 0,
+            "guid": "ry6K*C5_63",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Spelling_Rules",
+                "L1",
+                "L1S23"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The long vowels sounds are _________",
+                "a, e, i, o, u"
+            ],
+            "flags": 0,
+            "guid": "q`V?5_p?-J",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Spelling_Rules",
+                "L1",
+                "L1S24"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The vowel in a closed syllable is usually ________",
+                "short"
+            ],
+            "flags": 0,
+            "guid": "zi,91Xy,]U",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Spelling_Rules",
+                "L1",
+                "L1S24"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The vowel in an open syllable is usually ___________",
+                "long"
+            ],
+            "flags": 0,
+            "guid": "yt^}5TH[~F",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Spelling_Rules",
+                "L1",
+                "L1S24"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "at",
+                "at"
+            ],
+            "flags": 0,
+            "guid": "PBr1^?5AJ,",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "L1L1S6",
+                "Words"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "man",
+                "man"
+            ],
+            "flags": 0,
+            "guid": "Ne^(]AXM],",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "sat",
+                "sat"
+            ],
+            "flags": 0,
+            "guid": "Imo/-_jeAx",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "am",
+                "am"
+            ],
+            "flags": 0,
+            "guid": "v4dOSn{:q$",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "an",
+                "an"
+            ],
+            "flags": 0,
+            "guid": "tEg.:0&%3/",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ran",
+                "ran"
+            ],
+            "flags": 0,
+            "guid": "uTpSA8Icep",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "had",
+                "had"
+            ],
+            "flags": 0,
+            "guid": "GC=)*-MWd:",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "hat",
+                "hat"
+            ],
+            "flags": 0,
+            "guid": "O$Z_|kG7H[",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "gas",
+                "gas"
+            ],
+            "flags": 0,
+            "guid": "c*e&1k0s/H",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "map",
+                "map"
+            ],
+            "flags": 0,
+            "guid": "DA{R7P_`~g",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "in",
+                "he's in big trouble"
+            ],
+            "flags": 0,
+            "guid": "fQ{FH?]`c/",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "L1L1S7",
+                "Words"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "big",
+                "big"
+            ],
+            "flags": 0,
+            "guid": "P5ez=d}d@:",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S7"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "hit",
+                "hit"
+            ],
+            "flags": 0,
+            "guid": "tfdb-H84ja",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S7"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "pig",
+                "pig"
+            ],
+            "flags": 0,
+            "guid": "LYp[w7R@@q",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S7"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "him",
+                "I told him a secret"
+            ],
+            "flags": 0,
+            "guid": "ogj?.U*%aE",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S7"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "sit",
+                "sit"
+            ],
+            "flags": 0,
+            "guid": "gA#E-GyESR",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S7"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "did",
+                "did"
+            ],
+            "flags": 0,
+            "guid": "s;3-uj[nDd",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S7"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "it",
+                "it"
+            ],
+            "flags": 0,
+            "guid": "QvmH$c3sVk",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S7"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "if",
+                "if"
+            ],
+            "flags": 0,
+            "guid": "Mi5plK=W%&",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S7"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "dig",
+                "dig"
+            ],
+            "flags": 0,
+            "guid": "y^J&U$qpkJ",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S7"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "on",
+                "on"
+            ],
+            "flags": 0,
+            "guid": "uz:<@aE0}U",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S8"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "not",
+                "he does not like cake"
+            ],
+            "flags": 0,
+            "guid": "f%Zvl%;Kvs",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S8"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "mom",
+                "mom"
+            ],
+            "flags": 0,
+            "guid": "n34l`uQu#H",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S8"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "hot",
+                "hot"
+            ],
+            "flags": 0,
+            "guid": "i$)dfb9SPE",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S8"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "got",
+                "got"
+            ],
+            "flags": 0,
+            "guid": "v-b.v,<l;S",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S8"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "dog",
+                "dog"
+            ],
+            "flags": 0,
+            "guid": "sk,y+/gkz5",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S8"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "top",
+                "top"
+            ],
+            "flags": 0,
+            "guid": "CX2bKUJuLy",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S8"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "log",
+                "log"
+            ],
+            "flags": 0,
+            "guid": "iP$2ips^ju",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S8"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "job",
+                "job"
+            ],
+            "flags": 0,
+            "guid": "q&s?`{dAoM",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S8"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "hop",
+                "hop"
+            ],
+            "flags": 0,
+            "guid": "s&O|b1jzKy",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S8"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "up",
+                "up"
+            ],
+            "flags": 0,
+            "guid": "PMB.A%nFZ^",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "L1L1S9",
+                "Words"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "fun",
+                "fun"
+            ],
+            "flags": 0,
+            "guid": "QczMjr1<tw",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "bug",
+                "bug"
+            ],
+            "flags": 0,
+            "guid": "h9zUr>cZHp",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "sun",
+                "the sun rises in the east"
+            ],
+            "flags": 0,
+            "guid": "eD[&!`498B",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "run",
+                "run"
+            ],
+            "flags": 0,
+            "guid": "h%!C&=LER5",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "bus",
+                "bus"
+            ],
+            "flags": 0,
+            "guid": "DM,N!AwG>J",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "dug",
+                "I dug a hole in the yard"
+            ],
+            "flags": 0,
+            "guid": ">khJJJ0T6",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "mud",
+                "mud"
+            ],
+            "flags": 0,
+            "guid": "hETQ5nZnjA",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "us",
+                "us"
+            ],
+            "flags": 0,
+            "guid": ".K1Fgawc&",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "rug",
+                "rug"
+            ],
+            "flags": 0,
+            "guid": "df@8,s;lJ:",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "yes",
+                "yes"
+            ],
+            "flags": 0,
+            "guid": "H;CgdsO[ov",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S10"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "wet",
+                "wet"
+            ],
+            "flags": 0,
+            "guid": "qRhv((GPNX",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S10"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "red",
+                "she has seven red balloons"
+            ],
+            "flags": 0,
+            "guid": "DO9AGDde=-",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S10"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "men",
+                "men"
+            ],
+            "flags": 0,
+            "guid": "fZFIkX<Dl:",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S10"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "get",
+                "get"
+            ],
+            "flags": 0,
+            "guid": "sSbSrW/Eh9",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S10"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "leg",
+                "leg"
+            ],
+            "flags": 0,
+            "guid": "mN5n[yqK=;",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S10"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "pet",
+                "pet"
+            ],
+            "flags": 0,
+            "guid": ".fF&FW,LB",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S10"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ten",
+                "ten"
+            ],
+            "flags": 0,
+            "guid": "w#[Ai0ifCW",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S10"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "fed",
+                "fed"
+            ],
+            "flags": 0,
+            "guid": "g}r*b;NE1%",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S10"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "pen",
+                "pen"
+            ],
+            "flags": 0,
+            "guid": "p0!ywE1=ti",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S10"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "as",
+                "as"
+            ],
+            "flags": 0,
+            "guid": "h;R>3aD-Q~",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S11"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "has",
+                "has"
+            ],
+            "flags": 0,
+            "guid": "fYDbNQ%7!$",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S11"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "is",
+                "is"
+            ],
+            "flags": 0,
+            "guid": "siC!fg`K{R",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S11"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "his",
+                "his"
+            ],
+            "flags": 0,
+            "guid": "OCd|/&ppx=",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S11"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "box",
+                "box"
+            ],
+            "flags": 0,
+            "guid": "dZOK7t.9w?",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S11"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "six",
+                "six"
+            ],
+            "flags": 0,
+            "guid": "NpOTJA&HgT",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S11"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "mix",
+                "mix"
+            ],
+            "flags": 0,
+            "guid": "c5KN|<u9>W",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S11"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "fox",
+                "fox"
+            ],
+            "flags": 0,
+            "guid": "yLN{N0)>1`",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S11"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "quit",
+                "quit"
+            ],
+            "flags": 0,
+            "guid": "HO)%r)t>,#",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S11"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "fix",
+                "fix"
+            ],
+            "flags": 0,
+            "guid": "nv=y7JZWv+",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S11"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "fish",
+                "fish"
+            ],
+            "flags": 0,
+            "guid": "j?y<mm{[#:",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S12"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ship",
+                "ship"
+            ],
+            "flags": 0,
+            "guid": "c{X!$#vzcK",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S12"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "shop",
+                "shop"
+            ],
+            "flags": 0,
+            "guid": "j9~O?49I2s",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S12"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "much",
+                "much"
+            ],
+            "flags": 0,
+            "guid": "L`;Hv%h-[,",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S12"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "bath",
+                "bath"
+            ],
+            "flags": 0,
+            "guid": "A*vQ!M``O)",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S12"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "this",
+                "this"
+            ],
+            "flags": 0,
+            "guid": "bQzNOn8W?2",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S12"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "chin",
+                "chin"
+            ],
+            "flags": 0,
+            "guid": "Ma)=B,{]0-",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S12"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "math",
+                "math"
+            ],
+            "flags": 0,
+            "guid": "z]Z(Q_tU3Q",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S12"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "with",
+                "with"
+            ],
+            "flags": 0,
+            "guid": "upp-xo$`M*",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S12"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "that",
+                "that"
+            ],
+            "flags": 0,
+            "guid": "Dd9>p4zG1$",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S12"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "fast",
+                "fast"
+            ],
+            "flags": 0,
+            "guid": "yI+j2yjdJ#",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S14"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "went",
+                "went"
+            ],
+            "flags": 0,
+            "guid": "phC+4NE|w7",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S14"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "land",
+                "land"
+            ],
+            "flags": 0,
+            "guid": "r1,64Pyy{L",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S14"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "soft",
+                "soft"
+            ],
+            "flags": 0,
+            "guid": "P&3!pp6Gvt",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S14"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "left",
+                "left"
+            ],
+            "flags": 0,
+            "guid": "q5vn]7pDZj",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S14"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "last",
+                "last"
+            ],
+            "flags": 0,
+            "guid": "w3fs&PyD*F",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S14"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "and",
+                "and"
+            ],
+            "flags": 0,
+            "guid": "G3dO$^v&Aj",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S14"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "hand",
+                "hand"
+            ],
+            "flags": 0,
+            "guid": "LB/48tPrV#",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S14"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "help",
+                "help"
+            ],
+            "flags": 0,
+            "guid": "O1b&Tz.U>$",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S14"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "best",
+                "best"
+            ],
+            "flags": 0,
+            "guid": "Jq-FoJQbLW",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S14"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "stop",
+                "stop"
+            ],
+            "flags": 0,
+            "guid": "m(x4M+@:aO",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S15"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "glad",
+                "glad"
+            ],
+            "flags": 0,
+            "guid": "s8NiJ[vA&u",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S15"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "sled",
+                "sled"
+            ],
+            "flags": 0,
+            "guid": "rB+x@:92D(",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S15"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "flag",
+                "flag"
+            ],
+            "flags": 0,
+            "guid": "da--NOu/L#",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S15"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "frog",
+                "frog"
+            ],
+            "flags": 0,
+            "guid": "lODMtb@S5:",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S15"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "plan",
+                "plan"
+            ],
+            "flags": 0,
+            "guid": "s4g2ui;0nP",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S15"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "step",
+                "did she step on your toe?"
+            ],
+            "flags": 0,
+            "guid": "sjX7eoN0H)",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S15"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "trip",
+                "trip"
+            ],
+            "flags": 0,
+            "guid": "GNRe.6LkZ8",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S15"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "swim",
+                "swim"
+            ],
+            "flags": 0,
+            "guid": "kXKAJ#&jF!",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S15"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "spot",
+                "spot"
+            ],
+            "flags": 0,
+            "guid": "oXO?k:$71q",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S15"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "can",
+                "can"
+            ],
+            "flags": 0,
+            "guid": "zPHFfJ*Hn?",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S16"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "camp",
+                "camp"
+            ],
+            "flags": 0,
+            "guid": "f>}xxP4@:@",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S16"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cut",
+                "cut"
+            ],
+            "flags": 0,
+            "guid": "mn4/oW&Lh>",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S16"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kept",
+                "kept"
+            ],
+            "flags": 0,
+            "guid": "JpyNTPN-LO",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S16"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cash",
+                "he paid in cash"
+            ],
+            "flags": 0,
+            "guid": "mSVy->s[hf",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S16"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kid",
+                "kid"
+            ],
+            "flags": 0,
+            "guid": "ByRtSmQzlo",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S16"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kit",
+                "kit"
+            ],
+            "flags": 0,
+            "guid": "rI2(3qQO|2",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S16"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cup",
+                "cup"
+            ],
+            "flags": 0,
+            "guid": "fQF@+%:ibE",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S16"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "club",
+                "club"
+            ],
+            "flags": 0,
+            "guid": "iBvgy}IvNK",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S16"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cap",
+                "cap"
+            ],
+            "flags": 0,
+            "guid": "bo,kGr#g5;",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S16"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "tell",
+                "tell"
+            ],
+            "flags": 0,
+            "guid": "gs%{&Dzv!i",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S18"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "doll",
+                "doll"
+            ],
+            "flags": 0,
+            "guid": "Ko?KOatS6i",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S18"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "fell",
+                "fell"
+            ],
+            "flags": 0,
+            "guid": "fl:n_[Cl-3",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S18"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "hill",
+                "hill"
+            ],
+            "flags": 0,
+            "guid": "N1f4#${$ST",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S18"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "will",
+                "will"
+            ],
+            "flags": 0,
+            "guid": "iddt=[OC^#",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S18"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "sell",
+                "sell"
+            ],
+            "flags": 0,
+            "guid": "G}|Hdc,(dY",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S18"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "off",
+                "off"
+            ],
+            "flags": 0,
+            "guid": "h}<U;xtga{",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S18"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "miss",
+                "miss"
+            ],
+            "flags": 0,
+            "guid": "s,5gMng:w5",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S18"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "glass",
+                "glass"
+            ],
+            "flags": 0,
+            "guid": "F#Dv4$]XI=",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S18"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "grass",
+                "grass"
+            ],
+            "flags": 0,
+            "guid": "H9St-tf]a4",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S18"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ack",
+                "black"
+            ],
+            "flags": 0,
+            "guid": "Ot*;iY3G1M",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S19"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "clock",
+                "clock"
+            ],
+            "flags": 0,
+            "guid": "cq00U%sLEI",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S19"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "milk",
+                "milk"
+            ],
+            "flags": 0,
+            "guid": "kM!j`M>P@$",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S19"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "duck",
+                "duck"
+            ],
+            "flags": 0,
+            "guid": "eEMT3#f$CB",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S19"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "neck",
+                "neck"
+            ],
+            "flags": 0,
+            "guid": "N/Uwtc<Fi$",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S19"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "pick",
+                "pick"
+            ],
+            "flags": 0,
+            "guid": "dC,`*L_-;}",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S19"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ask",
+                "ask"
+            ],
+            "flags": 0,
+            "guid": "f>*B+)sz,H",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S19"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "rock",
+                "rock"
+            ],
+            "flags": 0,
+            "guid": "wf~bm2*NYd",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S19"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "desk",
+                "desk"
+            ],
+            "flags": 0,
+            "guid": "qV!zEw-skh",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S19"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "snack",
+                "snack"
+            ],
+            "flags": 0,
+            "guid": "f[mf2URLI{",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S19"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "king",
+                "king"
+            ],
+            "flags": 0,
+            "guid": "IUU&~@c9Si",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S20"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "long",
+                "long"
+            ],
+            "flags": 0,
+            "guid": "i6_nb}`G1S",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S20"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "sing",
+                "sing"
+            ],
+            "flags": 0,
+            "guid": "O}%J1^{E6^",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S20"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "thing",
+                "thing"
+            ],
+            "flags": 0,
+            "guid": "q^SHUB_8t>",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S20"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "bring",
+                "bring"
+            ],
+            "flags": 0,
+            "guid": "L?~!:~j0z&",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S20"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "sang",
+                "sang"
+            ],
+            "flags": 0,
+            "guid": "d:/qX)_xob",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S20"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "stung",
+                "stung"
+            ],
+            "flags": 0,
+            "guid": "kCX{5|00Zw",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S20"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "rang",
+                "rang"
+            ],
+            "flags": 0,
+            "guid": "G6L6`qIi;]",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S20"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "wing",
+                "wing"
+            ],
+            "flags": 0,
+            "guid": "fEaGM0)>6)",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S20"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "swing",
+                "swing"
+            ],
+            "flags": 0,
+            "guid": "ieK|(=A}%A",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S20"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "bank",
+                "bank"
+            ],
+            "flags": 0,
+            "guid": "iiRP=&hfc(",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S21"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "thank",
+                "thank"
+            ],
+            "flags": 0,
+            "guid": "P>byo->[,7",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S21"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "drink",
+                "drink"
+            ],
+            "flags": 0,
+            "guid": "Nhz(^b);8J",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S21"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "pink",
+                "pink"
+            ],
+            "flags": 0,
+            "guid": "vwP+:$:ZRB",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S21"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "sink",
+                "sink"
+            ],
+            "flags": 0,
+            "guid": "m]M{qNh:fg",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S21"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "think",
+                "think"
+            ],
+            "flags": 0,
+            "guid": "b[%>9e[`Ki",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S21"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "shrunk",
+                "shrunk"
+            ],
+            "flags": 0,
+            "guid": "B6:l(+Do/q",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S21"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "trunk",
+                "trunk"
+            ],
+            "flags": 0,
+            "guid": "E:R7T`G1A|",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S21"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "sank",
+                "sank"
+            ],
+            "flags": 0,
+            "guid": "kEkn`=r3ND",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S21"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Frank",
+                "Frank"
+            ],
+            "flags": 0,
+            "guid": "e@&aAcPg1q",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S21"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "bathtub",
+                "bathtub"
+            ],
+            "flags": 0,
+            "guid": "fwB2BkRwx)",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S22"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "within",
+                "within"
+            ],
+            "flags": 0,
+            "guid": "s5wyixD&ol",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S22"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "sunset",
+                "sunset"
+            ],
+            "flags": 0,
+            "guid": "o8A0,mcH7#",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S22"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cobweb",
+                "cobweb"
+            ],
+            "flags": 0,
+            "guid": "stGA;sZUnI",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S22"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "itself",
+                "itself"
+            ],
+            "flags": 0,
+            "guid": "$^Ax3Ul^",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S22"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "desktop",
+                "desktop"
+            ],
+            "flags": 0,
+            "guid": "gEM}Do.O+{",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S22"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "himself",
+                "himself"
+            ],
+            "flags": 0,
+            "guid": "tsP3UT-E#A",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S22"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "upset",
+                "upset"
+            ],
+            "flags": 0,
+            "guid": "Pi}jk[D(O#",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S22"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "windmill",
+                "windmill"
+            ],
+            "flags": 0,
+            "guid": "vgN]XB](G`",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S22"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "bobcat",
+                "bobcat"
+            ],
+            "flags": 0,
+            "guid": "H^xVO]g)y!",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S22"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cups",
+                "cups"
+            ],
+            "flags": 0,
+            "guid": "E[}m%?J3VE",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S23"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "beds",
+                "beds"
+            ],
+            "flags": 0,
+            "guid": "t&miUIe}eb",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S23"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "dishes",
+                "dishes"
+            ],
+            "flags": 0,
+            "guid": "Ci8DgZvr6",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S23"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "tents",
+                "we pitched our tents in the woods"
+            ],
+            "flags": 0,
+            "guid": "klH.1v@;9n",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S23"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "spots",
+                "spots"
+            ],
+            "flags": 0,
+            "guid": "j{K=D+y,C)",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S23"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "songs",
+                "songs"
+            ],
+            "flags": 0,
+            "guid": "bw%]SMroD+",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S23"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "dresses",
+                "dresses"
+            ],
+            "flags": 0,
+            "guid": "E^$qDB;A:C",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S23"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "trucks",
+                "trucks"
+            ],
+            "flags": 0,
+            "guid": "csq?r)nS-!",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S23"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "rugs",
+                "rugs"
+            ],
+            "flags": 0,
+            "guid": "i08Gm.)~A1",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S23"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "desks",
+                "desks"
+            ],
+            "flags": 0,
+            "guid": "jz!4eiyuFb",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S23"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "she",
+                "she"
+            ],
+            "flags": 0,
+            "guid": "O_/~^T5J/s",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S24"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "we",
+                "we ate all the raisins"
+            ],
+            "flags": 0,
+            "guid": "gALk]r{|On",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S24"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "so",
+                "it was so windy that my hat blew off"
+            ],
+            "flags": 0,
+            "guid": "beqplJ*x5,",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S24"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "he",
+                "he"
+            ],
+            "flags": 0,
+            "guid": "I1$&8H,`c$",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S24"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the",
+                "the"
+            ],
+            "flags": 0,
+            "guid": "i3`a}HT73>",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S24"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "no",
+                "there are no ripe bananas"
+            ],
+            "flags": 0,
+            "guid": "m9X3kT7FsO",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S24"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "me",
+                "me"
+            ],
+            "flags": 0,
+            "guid": "rIq+!0r`Pj",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S24"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "be",
+                "the dessert will be good"
+            ],
+            "flags": 0,
+            "guid": "JTEbLNA*OC",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S24"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "go",
+                "go"
+            ],
+            "flags": 0,
+            "guid": "h4GH{Sj7h]",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "Words",
+                "L1L1S24"
+            ]
         }
     ]
 }
